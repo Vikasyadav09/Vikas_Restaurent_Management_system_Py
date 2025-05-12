@@ -1,0 +1,32 @@
+[
+  {
+    "table_no": 1,
+    "seat": 6,
+    "is_booked": false,
+    "booked_at": null
+  },
+  {
+    "table_no": 2,
+    "seat": 8,
+    "is_booked": false,
+    "booked_at": null
+  },
+  {
+    "table_no": 3,
+    "seat": 4,
+    "is_booked": false,
+    "booked_at": null
+  },
+  {
+    "table_no": 4,
+    "seat": 10,
+    "is_booked": true,
+    "booked_at": "2025-05-07 16:09:41"
+  },
+  {
+    "table_no": 5,
+    "seat": 8,
+    "is_booked": false,
+    "booked_at": null
+  }
+]
