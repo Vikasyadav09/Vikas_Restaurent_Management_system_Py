@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Rajma Chawal",
+        "half_price": 50,
+        "full_price": 90
+    },
+    {
+        "id": 2,
+        "name": "Chola Chawal",
+        "half_price": 40,
+        "full_price": 70
+    },
+    {
+        "id": 3,
+        "name": "khadhi chawal",
+        "half_price": 40,
+        "full_price": 80
+    },
+    {
+        "id": 4,
+        "name": "dal fry",
+        "half_price": 50,
+        "full_price": 90
+    },
+    {
+        "id": 5,
+        "name": "Allu paratha",
+        "half_price": 40,
+        "full_price": 80
+    },
+    {
+        "id": 6,
+        "name": "water bottle",
+        "half_price": 0,
+        "full_price": 20
+    },
+    {
+        "id": 7,
+        "name": "puri subji",
+        "half_price": 40,
+        "full_price": 60
+    },
+    {
+        "id": 8,
+        "name": "subji",
+        "half_price": 40,
+        "full_price": 70
+    }
+]
