@@ -1,0 +1,9 @@
+An error occured :No module named 'billing'
+An error occured :list indices must be integers or slices, not str
+An error occured :Expecting value: line 1 column 1 (char 0)
+An error occured :list indices must be integers or slices, not str
+An error occured :'function' object has no attribute 'append'
+An error occured :Expecting value: line 1 column 1 (char 0)
+An error occured :Expecting value: line 1 column 1 (char 0)
+An error occured :module 'datetime' has no attribute 'now'
+An error occured :No module named 'billing'
